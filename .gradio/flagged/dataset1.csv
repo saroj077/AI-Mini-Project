@@ -1,0 +1,2 @@
+Upload Retinal Scan Image,Prediction Result,timestamp
+.gradio\flagged\Upload Retinal Scan Image\834bce0fa36cfd10ef6d\0a902c80d5da.png,"{""label"": ""Not Diabetic"", ""confidences"": [{""label"": ""Not Diabetic"", ""confidence"": 0.9871973739936948}, {""label"": ""Diabetic"", ""confidence"": 0.012802626006305218}]}",2025-06-29 08:55:03.656779
